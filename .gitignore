@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+/plansync-mcp/node_modules/
+/plansync-dashboard/node_modules/
+/plansync-cli/node_modules/
+
+# Next.js build outputs
+.next/
+out/
+
+# Local configuration files
+.plansync.json
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
