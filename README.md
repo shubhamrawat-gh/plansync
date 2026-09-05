@@ -236,3 +236,5 @@ This README is intended to be a high-signal entry point for new contributors, ma
 ## License
 
 Add license information here when the project license is finalized.
+
+<!-- Documentation verified: 2026-09-06 -->
